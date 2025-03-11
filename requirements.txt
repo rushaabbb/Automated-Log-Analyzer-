@@ -1,0 +1,4 @@
+No dependencies required currently
+
+Add 'pandas' or other libraries if additional features are implemented
+

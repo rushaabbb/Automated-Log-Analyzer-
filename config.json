@@ -1,0 +1,9 @@
+{
+    "log_file": "logs/sample.log",
+    "alert_patterns": {
+        "failed password": "Failed SSH login attempt",
+        "404": "Page not found error",
+        "500": "Internal server error",
+        "user root": "Root user activity detected"
+    }
+}
